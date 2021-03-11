@@ -8,7 +8,7 @@
 
 [03 Rotating Navigation](https://ethwri.github.io/50projects/03-rotating-navigation/index.html)
 
-[04 Hidden Search Widget](https://ethwri.github.io/50projects/03-hidden-search-widget/index.html)
+[04 Hidden Search Widget](https://ethwri.github.io/50projects/04-hidden-search-widget/index.html)
 
 [05 Blurry Loading](https://ethwri.github.io/50projects/05-blurry-loading/index.html)
 
@@ -16,7 +16,7 @@
 
 [07 Split Landing Page](https://ethwri.github.io/50projects/07-split-landing-page/index.html)
 
-[08 Form Wave Animation](https://ethwri.github.io/50projects/08-form-wave-animation.html)
+[08 Form Wave Animation](https://ethwri.github.io/50projects/08-form-wave-animation/index.html)
 
 09 Javascript drum kit - I'd completed this previously as a standalone project.
 
