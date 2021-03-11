@@ -4,4 +4,4 @@
 
 [01 Expanding Cards](https://ethwri.github.io/50projects/01-expanding-cards/index.html)
 
-[02 Progress Steps](./02progress-steps/index.html)
+[02 Progress Steps](./02-progress-steps/index.html)
